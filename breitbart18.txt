@@ -1,0 +1,33 @@
+Goldman Sachs joined a somewhat awkward club Tuesday morning, delivering better-than-expected quarterly earnings only to see its shares sink when the market opened.
+The Wall Street firm reported earnings of $6.95 per share, compared with analyst expectations of $5.56. This was the third-best earnings-per-share ever for Goldman. Revenue of $10.4 billion topped estimates of 8.54 billion, a 25 percent increase from a year ago.
+
+Yet investors were not in the mood to pop champagne corks. Goldman shares fell by 1.6 percent Tuesday morning even as the broader market moved up, with the S&P 500 rising by 1 percent. Year to date, shares of Goldman have barely moved at all.
+
+This is a pattern now familiar to investors. When J.P. Morgan Chase reported better than expected earnings last week, its shares sank. The same thing happened at Bank of America and Citigroup.
+
+One of thing that likely put Goldman shareholders in a sour mood: Goldman’s comments that it wouldn’t be buying back shares in the second quarter.
+
+But that would not explain the broader pattern of punishing market movements following earnings and revenue beats. The explanation for that likely lies in how these Wall Street powerhouses beat expectations.
+
+Goldman’s investment banking revenue came in at $1.8 billion, a 5 percent increase over the start last year. Compared with the last quarter of 2017, investment banking revenues fell. Revenues for advising on mergers and acquisitions crashed 22 percent compared with the year-ago period. Revenues from underwriting new debt and equity issuance grew. A fair assessment would be to see this as a business that is slowly growing, beating broad U.S. economic growth but dependent on markets that welcome new equity and debt.
+
+Investment management was stronger. The firm reported $1.77 billion in revenue for the first quarter, 18 percent higher than a year ago and 6 percent higher than the fourth quarter of 2017. Goldman says it has $1.5 trillion of assets under supervision, an increase of $4 billion since the end of last year.
+
+What really drove Goldman’s revenue growth this quarter, however, was trading. Goldman’s equity trading revenues rose 38 percent compared to a year ago, to $2.31 billion. Fixed income, currency and commodity trading rose 23 percent, to $2.07 billion. The market volatility that has worried so many investors this year has been good for Goldman Sachs.
+
+Goldman also squeezed a huge amount of growth out of its “Investing & Lending” division, a black box of longer-term proprietary debt and equity investments that sit on the company’s balance sheet. Revenues here grew 43 percent to $2.09 billion. The equities share of that was $1.07 billion, up 34%, which the company attributed to gains from private equities rather than gains in publicly traded stocks. In fact, Goldman says its gains from publicly traded equities declined.
+
+Translation from Wall Street speak: Goldman’s access to non-publicly traded shares more than made up for the falling gains on the part of the U.S. equity market that ordinary investors can touch.
+
+The debt side of the Investing and Lending unit accounted for $1.02 billion of revenue, a 53 percent gain, which Goldman said was due to higher net interest income. Translation: the interest rates Goldman charged clients went up by more than the interest rates Goldman paid to its own creditors.
+
+“Solid performance across our businesses produced strong returns in the first quarter,” CEO Lloyd Blankfein said.
+That’s accurate enough and it makes sense that Goldman’s boss sees the quarter in that way. But the firm’s outside investor do not value all of Goldman’s businesses–or those at J.P. Morgan, Citigroup, or Bank of America–the same. Some quick back of the envelope math suggests that investors attach no earnings multiple at all to both debt and equity trading businesses and perhaps even a negative multiple to capital intensive and highly secretive businesses like Goldman’s Investing and Lending division. They’ll give banks credit for money earned but only attach market multiples to asset management and financial advisory businesses.
+
+That’s far from irrational. It is impossible to tell from the quarterly reports how much risk a bank took on or how much capital a bank committed to earn its trading revenue. Results from the Federal Reserve’s stress tests suggest that there is a lot of risk involved.
+
+And much of the gain in revenue appears to go to benefit the traders inside the firm rather than its outside investors. Consider that despite the 25 percent increase in revenue, Goldman’s expense compensation ratio in the first quarter stayed at 41 percent because its compensation expenses rose 25 percent compared with a year ago.
+
+This does not mean that investors would necessarily be better off if Goldman just shed its trading, investing and lending business lines. There likely is some truth to the idea that many of the other businesses that investors appreciate depend, at least in part, by Goldman and the others being able to offer the full Wall Street array of “client services.” It’s likely not possible to run a big debt underwriting business without also having a large bond trading operation.
+
+But it does mean that these should be seen as something akin to loss-leaders even when they make money. And investors shouldn’t expect to see share prices rise by much, if at all, on the backs of gains from Wall Street’s black boxes.

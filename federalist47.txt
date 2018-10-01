@@ -1,0 +1,38 @@
+As cool parents, Dr. Frankenstein, and certain fans of the Internet can attest, it sometimes hurts to realize your creation is not your friend. Perhaps that’s why so much hate has come down on the bots. Automated online accounts are now the official bane of social media—so much so that some, including prominent Silicon Valley figures, are calling for their eradication.
+
+The reason goes deeper than Russian trolls or meddlesome hackers. Bots aren’t just messing with our politics. They’re cutting in on what’s supposed to be our exclusive territory: language. And if we don’t look out, the bots could elbow us out of the conversation completely.
+
+However well-developed language may be among the other animals, symbolic communication, both written and spoken, is a hallmark of our lives. From culture to economics to politics, it distinctively shapes almost everything we do. So it only makes sense that society and law grants language special status. Human speech is so exceptional, powerful, and purposeful that it carries certain fundamental rights and duties.
+
+But what happens when technology gains powers of speech that outstrip our own—not just in quantity, but in quality? The quantity of bot-created content can already outstrip our own. Now their quality is getting better and better.
+
+The challenge goes beyond that posed by bots booting humans out of customer service jobs or “hijacking” human campaigns like #DeleteFacebook. It goes to the heart of the “public square.” While literacy is declining and ignorance is deepening among humans, bots are racing ahead in their facility with “our” language. Soon it will often be more edifying and entertaining to converse online with a bot than with a random human being.
+
+Cue the Fear Bans
+So, according to early Facebook investor Roger McNamee, it’s now “essential to ban digital bots that impersonate humans. They distort the ‘public square’ in a way that was never possible in history, no matter how many anonymous leaflets you printed. At a minimum, the law could require explicit labeling of all bots, the ability for users to block them, and liability on the part of platform vendors for the harm bots cause.”
+
+And at a maximum? It’s not hard to envision a future of government bots constantly tracking and punishing human beings responsible for bringing “unauthorized” bots—or simply unauthorized accounts—into the world. Already, Twitter is seriously considering verifying all users. The logical next step is banning unverified ones, zapping them in real time as they come into existence.
+
+But that’s not a job tech companies want. Ideally, that’s a police power government bots would wield, not least because the job is requires always-on policing mere humans can’t do.
+
+Yet trying to keep bots from taking over the discourse could come at a tremendous cost. It’s also easy to envision a future of Matrix-like enforcers destroying the boundary between public and private, demanding every citizen accept full transparency in his every word and deed. Viewed through that lens, China’s “innovations” in forced transparency, identity, and publicity—like the national “Social Credit Score” that bans you from travel if you fall too low in the rankings—are just the beginning. The quest to eradicate bad bots can quickly mutate into a crackdown on free humans.
+
+That’s because, in a free society, anonymous and pseudonymous communication is a foundational right. (Just ask the authors of the Federalist Papers.) Bots have us so scared because the easiest way to fight fake interlocutors is to attack that right. Technology has spawned a deep contradiction in our culture, turning the liberty value of “one person, one voice” against itself.
+
+One High-Profile Victim: The Comments Section
+In recent months, we’ve seen the tension all but destroy one of online discourse’s core institutions—the comments section. In its recent decision to shift away from Obama-era net-neutrality rules, the Federal Communications Commission cited zero out of more than 22 million consumer comments on its proposed suite of changes. So many were bot-generated or submitted with false identities that the FCC made no attempt to screen out “good” comments from bad.
+
+One commissioner, Mignon Clyburn, did dissent, lambasting the decision as unfree and borderline authoritarian. But her language sadly reinforced the point. “The public can plainly see that a soon-to-be-toothless FCC is handing the keys to the internet over to a handful of multi-billion dollar corporations,” she wrote, using a fiery yet predictable set of catchphrases easily generated and spread by a well-programed AI.
+
+Therein lies the rub. Some analysts have urged that regulators—and the rest of us—need to read the comments, since ignoring them all ignores the highest-quality input from the most expert and thoughtful stakeholders. “This is of course a very undemocratic conclusion,” as Bloomberg’s Matt Levine, formerly of Goldman Sachs, concedes. “It gives more weight to the positions of ‘special interests’ with expertise than to those of regular citizens without it.” But while invoking mass support for a policy may hold a “populist appeal,” he insists, “on the internet, numbers are the easiest thing to fake. Substance is a bit harder.”
+
+Is it? Or have we been foolishly lulled into a false sense of superiority by cheap and foreign bots aimed at ignorant audiences primed for poor judgment? If using fake interlocutors to “hack” or “crash” the democratic process feels alarming, consider how easy it will be for bots of the very near future to unload carefully targeted high-quality political speech on the best and brightest.
+
+The Beep Tolls For Thee
+In fact, at least some of our knowledge elite already rightly fear that the next wave of jobs to be felled by the bots are their own. In the not-too-distant past, white-collar jobs offered prestige, power, and wealth to those willing to master the communicative arts of presenting information to people who couldn’t or wouldn’t process it themselves. Now, attorneys, reporters, bankers, and even lobbyists face the discomfiting prospect of AI replacement.
+
+But in the grip of such fear, will the experts really privilege real people putting forth arguments in their interest over bots doing just the same—only better? Or will they, too, quickly come to accept as inevitable that public persuasion is just one more “job” to be transitioned from human to machine?
+
+Some experts will probably soon call for mandatory bio-verification to interact online—a sort of driver’s license for the Internet. But the real solution to protecting the distinctive freedom our language supplies is probably even more radical: freeing our most important communicative relationships, in and out of government, from dependency on digital life.
+
+Earlier this decade, then-president Barack Obama encouraged Americans not to put anything in an email they wouldn’t want in the news. By next decade, the principle behind that wise counsel could swiftly expand. To keep our institutions not only smart but human too, much more of our private and public business will have to be conducted the old-fashioned way: face to face, fueled by human memory and human soul.

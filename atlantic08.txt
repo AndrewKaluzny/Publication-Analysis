@@ -1,0 +1,84 @@
+Every day, the world’s 3 million Uber drivers spend 8.5 million hours logged into the ride-hailing company’s app. That’s roughly 1,000 years of Uber driving packed into any given 24 hours.
+
+Because of this tremendous scale, Uber is the most important test case for the gig economy, the new economic arrangement where contract workers are arranged into a cohesive labor force by software. There are many companies that share Uber’s controversial approach to doling out work, but none has amassed 3 million people who use the service to try to make money. Never before has an app’s design been so important to so many people.
+
+The Uber app is the drivers’ workplace, as much as the city where they’re driving is. Each decision about its interface structures drivers’ interactions with Uber the company as well as Uber the transportation marketplace. And Uber is now putting the finishing touches on a from-scratch rebuild of the driver app.
+
+The new build of the app draws on technological components of the new rider app, which launched last year. But creating something for drivers is different. An Uber rider needs an app that’s simple and fast; drivers’ experience of the app is much deeper.
+
+The new version will begin rolling out in the next few weeks, and in an interview with The Atlantic, Uber’s CEO, Dara Khosrowshahi, said it embodies the new, kinder Uber. Hundreds of drivers were involved in providing detailed ideas and feedback about how the app should work.
+
+“Drivers have lived with our tools every single day, and the insight that they bring into our app and our experience on the road is unique,” said Khosrowshahi, who has even tried driving himself. “We would be fools not to use their experience in helping design not just our software, but in thinking about our business.”
+
+So Yuhki Yamashita, the product manager for driver experience, and Haider Sabri, the engineering lead, spearheaded a new design process that sought to bring “builders” (Uber’s terminology for engineers and designers) closer to the drivers who will be using their software. It’s one of the things that Uber can do now. Back when the last driver app was introduced in 2015, there were about 30 engineers working on the app, Sabri said. Now there are hundreds.
+
+Members of the app-building team embedded with hundreds of drivers in Los Angeles; Cairo; Bangalore, India; London; Melbourne, Australia; Jakarta, Indonesia; and São Paolo, Brazil. Drivers could send WhatsApp messages to individual researchers, attend group lunches, or do rides with members of the Uber team using the new app.
+
+Instead of taking all that information and processing it into one or several reports, they created a private Google Plus community (yes G+ still exists!) so that engineers and designers could immediately see feedback coming in from all over the world. Some drivers recorded vlogs reviewing the new app. Others sent detailed messages with screenshots to point out concerns.
+
+The result of that research and building process is a new app that the team hopes will be, as they put it, “empowering” and “personal,” and more understanding of how drivers move through their days (and nights) on the platform.
+
+Most intriguingly, the new app will take a more directive approach to making suggestions to drivers about where to go and what to do. It will not only offer single proposals about areas to drive, but offer unprecedented visibility into what Uber’s back-end software predicts is going to happen across a city.
+
+The redesign of Uber’s driver app began before the company’s “180 Days of Change” campaign, which launched last June while Travis Kalanick, Uber’s founder and former CEO, was taking a leave of absence, and prior to when Khosrowshahi became the company’s chief. Kalanick was forced out by major shareholders after months of news stories about Uber’s “aggressive” culture and terrible treatment of female employees, and Kalanick’s nasty confrontation with a driver. The six-month program was supposed to “meaningfully improve” the driver experience. It began with a splash: the announcement that Uber, contrary to a long-stated position, would introduce tipping.
+
+Uber notes that it made 38 changes as a result of the process and feedback from drivers, but the reviews on driver websites and forums indicate that drivers remain unsatisfied. Some driver-friendly measures—like allowing them greater flexibility in picking which direction their rides take them—had to be walked back. Others—like paying them back for tolls incurred while getting to riders—never launched. And even when it came to tipping, some drivers felt Uber needed to encourage tipping within the rider app’s interface.
+
+In 2018, Uber’s new motto has been “building together.” The company held a first-of-its-kind forum with drivers and Khosrowshahi in January and has continued to talk a much better game about the people working on the platform.
+
+There is one big reason to believe that Uber might be serious about treating drivers better: Acquiring and keeping drivers on the platform is a major expense. The ride-hailing business is a complex two-sided market, where companies like Uber and Lyft have to compete for both drivers and riders. One way they do so is subsidizing the cost of rides, paying drivers more and charging riders less than is profitable. That’s a major contributor to why both companies have lost staggering sums of money so far. Uber, for example, lost $4.5 billion in 2017 and $2.8 billion in 2016. (Lyft’s revenues and losses are both much smaller.)
+
+The most obvious thing that keeps drivers happy is more money. “We have mostly been talking with drivers about basic per-mileage rates, deactivation issues, and other bread and butter concerns,” said Jeff Ordower of Silicon Valley Rising, a group that’s beginning to try to organize drivers in the Bay.
+
+But pay is not the only consideration. Serious investigations of how it feels to work for Uber have found a variety of considerations, big and small, that shape the driver experience.
+
+Luke Stark, a media-studies scholar at Dartmouth College, and Alex Rosenblat, an ethnographer at the Data and Society Research Institute, explored the specific working conditions designed into the Uber app in a 2016 paper. For example, drivers are not given passenger-destination information before they accept a ride. This is good for riders, as Uber drivers cannot discriminate based on where they’re headed, but it means that drivers have to accept the ride “blind,” which can lead to unprofitable trips. “You’re driving around blind,” one driver told Stark and Rosenblat. “When it does ping, you might drive 15 minutes to drive someone half a mile. There’s no money in it in that point, especially in my SUV.”
+
+The app is both the factory and the boss, and its design has ramifications on drivers’ autonomy, power, earnings, and quality of life. The technical system determines how rides are assigned, how much drivers get paid for each ride, and how workers are evaluated through rider ratings and other factors. These kinds of tasks all used to fall to humans. Now they don’t. Carnegie Mellon researchers have termed these new forms of organizational control “algorithmic management.”
+
+“Through the Uber app’s design and deployment, the company produces the equivalent effects of what most reasonable observers would define as a managed labor force,” write Stark and Rosenblat. “At the same time, the decentralized structure of Uber’s systems and their rhetorical invocation of ‘platforms’ and ‘algorithms’ may render the impression that Uber has a limited managerial role over driver behaviors.”
+
+Whether this kind of management is better or worse for drivers than traditional taxi management is an open question writers like Tim O’Reilly have been exploring, but it is different: The management possibilities are centralized in the company design process and delivered via mobile phone.
+
+The Uber driver app has to do a wide variety of things. The app must allow drivers in cities across the globe to find people, provide rides, and deliver food. It must push drivers to the places where riders are waiting, balancing the market’s supply and demand. And, from Uber’s perspective, it must give drivers the tools to run their own one-person taxi business.
+
+The company viewed the old app as a “one-stop shop to run your business,” Yamashita said. The main non-driving screen was a kind of “news feed” with different promotions, events, and other announcements that could be pushed to drivers by corporate or city operational teams. Drivers often found the number of data points overwhelming (or underwhelming). There was an earnings tab that let you see how much money you’d made. There was a ratings tab that helped you keep an eye on your rank within the system.
+
+“With the old app, the attitude was: ‘Here’s a bunch of information organized in these four different tabs. Go find what you need,’” Yamashita said.
+
+The new app, the team hopes, will act as more of a personal coach than an impersonal shop. This approach can be seen in three changes. In the previous iteration, drivers slid a switch to take themselves online. To the design lead Bryant Jow, that felt impersonal, like the driver was a cog who had to be turned on like a light switch. The switch was replaced with a button that simply says, “Go.”
+
+The next change is more significant. Before, when a driver would open the app, they’d see a map of the city with “surge” areas outlined in different warm colors. Drivers had to make a pretty complex calculation about where the most profitable place to drive might be. Now, Uber’s app will offer up a simple suggestion that doesn’t necessarily tell them to “chase the surge” (a plan most drivers think is dumb), but that will help nudge them to a better area.
+
+The other bit of feedback on the main screen that drivers will receive is a prediction for when they’ll be pinged for a ride. Will it be two minutes or 20 minutes? And if the answer is 20 minutes, maybe a driver will opt to do something else rather than spend low-earnings time on the platform.
+
+Taken together, just those adjustments on the home screen are a serious revamp of the nudges that drivers are being given. But Uber has also made a more radical change to the data that it’s sharing with drivers. In the old version of the app, drivers could see if an area was surging, or city-operations teams might push a message predicting that a special event might cause heavy demand. Those were the only tools available.
+
+In the new version, there are demand-prediction charts that drivers can access to help plan when they want to drive. This is a major departure for Uber. “This is a highly experimental feature because this is the first time we’re trying to show this data,” Yamashita said.
+
+Sharing this information is in Uber’s interest. They have the very difficult challenge of balancing the load between riders and drivers, so the better decisions that drivers make, the more efficient their matching will be. For those reasons, drivers responded strongly to the idea. But in so doing, they also created a problem for the team: The demand projections that the app was initially showing were not as reliable as drivers were hoping that they would be.
+
+“The honest answer is that they loved the idea of it, and oftentimes it was helpful for them, but we didn’t always get it right,” Yamashita said. “We realized that we needed to improve these features.” That interest and feedback drove a new round of improvements, which they hope will meet drivers’ standards for usefulness.
+
+The app will begin to roll out soon to small portions of drivers (say, 5 percent) within select cities. Then, they’ll roll out to all the drivers in a few cities, comparing the data they see with similar cities elsewhere.
+
+The reason for the phased “responsible” rollout, as Yamashita put it, is that they found themselves in trouble last year. As part of the “180 Days of Change” push, Uber gave drivers the ability to set their general direction for giving rides six times per day, when previously the “destination filter” had only let drivers do that twice.
+
+It doesn’t seem like the biggest change. And when Uber tested it with a small number of drivers in each city, it worked fine. But this feature was huge for drivers, who immediately took advantage of the ability to drive in their chosen directions throughout the day. They loved it. So many took advantage of the feature that Uber said that it hurt the overall market conditions.
+
+“As an individual driver, you’re like, ‘Of course I want six! That’s so much better for me,’” Yamashita said. “But then when everyone has it, it creates these weird things where there are certain riders not getting service and that really messes up the marketplace.” Uber decided to revert the change. They’d just gotten an entirely new way of working, and the company retracted it. It was as if the factory line had been reconfigured to benefit workers, then the company put it the back the old way. Drivers were not happy.
+
+Nonetheless, Uber maintains that what is good for drivers, as a group, is good for Uber. “If you optimize for your driver partners, that is a long-term winner,” said Khosrowshahi. “That is certainly our it intention with this app.”
+
+
+Drivers, to put it mildly, have not always thought Uber was looking out for their best interests. In 2017, before Kalanick resigned, he got into a fight over fare cuts with an Uber driver. In the wake of that incident, a driver told the Associated Press that “a lot of drivers feel that Uber always looked out for themselves first and foremost and relegated drivers to a second tier.”
+
+For drivers, the money they make remains their number-one issue across all the places they provide feedback to the company and consult with each other. And the app won’t directly change their cut of the ridesharing proceeds. In fact, Khosrowshahi maintained that even if he wanted to increase earnings for drivers, he couldn’t just hike rates without hurting them just as much.
+
+“In general, if rates overall go up, demand goes down and if demand goes down, driver utilization goes down, and then overall earnings often go down or don’t go up,” he said. “There is actually very little that we can do in terms of overall earnings for drivers.”
+
+But what about the direct lever that Uber has to increase drivers’ take-home pay, which is cutting into Uber’s slice of the pie?
+
+“If you look at the earnings of the company, I don’t think you can accuse us of over-earning,” he said of the company’s multibillion-dollar losses. “Our goal is to be in a fair position and that’s what we’re optimizing for.”
+
+As the new app rolls out to workers on the platform, we'll see if they agree.

@@ -1,0 +1,42 @@
+Social media company Twitter has advised users to change their account passwords after it was discovered that a bug resulted in user passwords being stored in an insecure manner.
+In a blog post titled “Keeping your account secure,” company CTO Parag Agrawal explained that the platform utilizes software that masks user passwords, preventing anyone at the company from viewing them. But due to a bug, all user passwords were stored in plaintext in an internal log. Agarwal says that they have investigated and fixed the bug and so far have found no signs of misuse or breach of user data.
+
+Twitter uses a process called hashing and a function called “bcrypt” to replace user passwords with random numbers and letters which are stored in Twitter’s system, this is how Twitter validates all user data and is an “industry standard” according to Agrawal. Somehow, this process failed, resulting in all of the site’s 300 million users passwords being made visible to multiple employees working at the company.
+
+Agrawal tweeted that Twitter “didn’t have to” alert users to the error but did so as they believed it was the “right thing to do.”
+
+
+Parag Agrawal
+@paraga
+ We are sharing this information to help people make an informed decision about their account security. We didn’t have to, but believe it’s the right thing to do. https://twitter.com/twittersupport/status/992132808192634881 …
+
+4:13 PM - May 3, 2018
+196
+346 people are talking about this
+Twitter Ads info and privacy
+
+Parag Agrawal
+@paraga
+3h
+We are sharing this information to help people make an informed decision about their account security. We didn’t have to, but believe it’s the right thing to do. https://twitter.com/twittersupport/status/992132808192634881 …
+
+
+Parag Agrawal
+@paraga
+ I’m sorry that this happened, but am proud to work at a company that puts people who use our service first.
+
+4:13 PM - May 3, 2018
+69
+80 people are talking about this
+Twitter Ads info and privacy
+The company has advised all Twitter users to change their passwords to prevent the possible hacking of their accounts, and provided tips on account security.
+
+The tips that Twitter outlined were:
+
+Change your password on Twitter and on any other service where you may have used the same password.
+Use a strong password that you don’t reuse on other websites.
+Enable login verification, also known as two-factor authentication. This is the single best action you can take to increase your account security.
+Use a password manager to make sure you’re using strong, unique passwords everywhere.
+Twitter ended their blog post by apologizing for the error saying:
+
+We are very sorry this happened. We recognize and appreciate the trust you place in us, and are committed to earning that trust every day.

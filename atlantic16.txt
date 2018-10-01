@@ -1,0 +1,53 @@
+Fingerprints are the oldest and most widely used biometric marker. Artifacts unearthed from ancient Babylon, China, and Persia show that fingerprints were often used on clay tablets and seals for business transactions and official documents. The loops, whorls, and arches that emerge from the “friction ridges” that form on a fetus’s developing fingers become unique to each person, and it’s no surprise that fingerprint identification has also been the gold standard in law enforcement and forensics since about the early 1900s. More recently, fingerprint verification technology has become almost ubiquitous in our daily lives as an access key for everything from smartphones and computers to bank accounts, offices, and even health records.
+
+For all its utility, however, the image of this distinctive, swirling pattern has been the most information that you could extract from a fingerprint—though that’s starting to change. A raft of sensitive new fingerprint-analysis techniques is proving to be a potentially powerful, and in some cases worrying, new avenue for extracting intimate personal information—including what drugs a person has used.
+
+
+That’s right: The new techniques can determine, from a single fingerprint, not whether you have handled these drugs, but whether you have taken them.
+
+The new methods use biometrics to analyze biochemical traces in sweat found along the ridges of a fingerprint. And those trace chemicals can quickly reveal whether you have ingested cocaine, opiates, marijuana, or other drugs. One novel, noninvasive forensic technique developed by researchers at the University of Surrey in the United Kingdom can detect cocaine and opiate use from a fingerprint in as little as 30 seconds. The team collected 160 fingerprint samples from 16 individuals at a drug-treatment center who had used cocaine within the past 24 hours—confirmed by saliva testing—along with 80 samples from non-users. The assay—which was so sensitive that it could still detect trace amounts of cocaine after subjects washed their hands with soap—correctly identified 99 percent of the users, and gave false positive results for just 2.5 percent of the nonusers, according to a paper published in Clinical Chemistry.
+
+The researchers say they hope to expand the range of controlled substances that can be detected, which could include methamphetamines, amphetamines, and marijuana. The test can be modified to detect therapeutic drugs prescribed by physicians too.
+
+Needless to say, the technology has titillated law-enforcement and corrections officials, and it may have useful applications for professionals working in drug treatment, elder-care centers, and other inpatient and outpatient facilities. For all of its heady new potential, however, the emergence of technologies like these has some observers feeling a bit uncomfortable about how, where, and to whom they are likely to be applied. More pointedly, the ability to glean detailed information about a person from a mere fingerprint—Do they smoke cigarettes? Use marijuana? Enjoy fatty foods? Drink alcohol?—raises a number of potentially knotty questions of privacy and consent. And even within the criminal-justice system, some stakeholders worry that the emergence of these new fingerprint technologies could undermine what are already tenuous human rights.
+
+“Oftentimes police will deploy these technologies without any consultation with the public,” said Camilla Graham Wood, a legal officer at Privacy International, a London-based organization that advocates for greater human rights around emerging technologies. Some law-enforcement agencies in the United Kingdom are already experimenting with field devices that can extract biometric data from fingerprints. “They’re relying on older, outdated laws that came into being long before these technologies were even considered,” Wood said. “So, it is unclear what legal basis they are relying upon.”
+
+Wood said the police implementation of the fingerprint-based drug detection is an example of “technology for technology’s sake.”
+
+“The bottom line is that police and law enforcement are excited about this new technology,” she told me. “They want to use it but don’t question, ‘Is it necessary?’ or, ‘How should it be done in a proportionate manner?’ These technologies have become very useful and convenient for the police. But that doesn’t make it acceptable or normal.”
+
+One version of the new technology relies on what’s known as “paper-spray mass spectrometry.” Mass spectrometry turns molecules into ions, or charged particles, then sorts them by mass to identify them. You’ve probably seen airport-security personnel use mass spectrometers for bomb detection, for example, when your hand or luggage is swabbed after going through a metal detector or body scanner.
+
+“We chose paper-spray mass spectrometry because it’s gaining popularity in forensics because it is incredibly sensitive and very easy to set up a testing system,” said Catia Costa, an analytical chemist and liaison fellow at the University of Surrey’s Ion Beam Center. Costa is the lead author of the recently published paper. This is the first time that paper-spray mass spectrometry has been successfully used to detect drugs in fingerprints, Costa told me.
+
+“It’s been well known over the past few years that you can tell what people have ingested based on the sweat secreted at their fingertips,” Costa explained. If a person has taken cocaine, for example, Costa said, the technology can detect this based on the structure of cocaine and the presence of metabolites, “which suggest the cocaine has been through the body.”
+
+The University of Surrey research was co-funded by a biometric-diagnostics firm called Intelligent Fingerprinting, which has developed what is believed to be the world’s first portable, fingerprint-based drug-detection system. The diagnostics firm was founded more than a decade ago by David Russell, an emeritus professor of the School of Chemistry at the University of East Anglia who pioneered the detection of ingested substances in fingerprints.
+
+The new portable test works much like a home pregnancy test. It uses antibodies to detect specific classes of drugs of abuse, explained Jerry Walker, a biochemist and chief executive for the company. “One detects opiates, another detects amphetamines, another detects cocaine, and another THC, which is the active ingredient in marijuana,” he said.
+
+The company’s portable, rapid drug-screening system is currently being used in some drug-treatment centers to determine whether patients on opioid-substitution therapy are using heroin, cocaine, or other drugs, according to Walker. It’s also being used in several pilot studies by medical examiners in the United Kingdom to determine cause of death, Walker said. And while the tests cannot quantify the amount of a substance ingested, nor when it was taken, the company believes that criminal-justice applications—law enforcement, courts, probation, prisons, and, perhaps one day, roadside drug testing—could eventually become its largest market.
+
+Executives are particularly interested in markets in the United States and Canada.
+
+“We think our technology would be a very good deterrent because prison authorities could walk into a cell at any time” to conduct a drug test and have results within minutes, Walker told me. “You could potentially sweep an entire prison wing within hours as opposed to days or months.”
+
+The new technologies have the capacity to go far beyond simple drug testing of offenders, and they have already captured the interest of Britain’s Home Office, which is responsible for law enforcement, immigration, customs, and border security. The Home Office has backed an advanced fingerprint forensic-analysis team—a public-private research collaboration—anchored by the West Yorkshire Police since 2012, according to the BBC and other reports.
+
+The West Yorkshire program makes use of a different mass-spectral technique known as “matrix-assisted laser-desorption ionization” or maldi. It’s another relatively newish technique—often used in pathology and cancer research, for example—that uses a laser to analyze very thin tissue samples and create multiple two-dimensional images. This research is conducted by a bioanalytical chemistry team based at Sheffield Hallam University that is headed by Simona Francese, a professor of forensic and bioanalytical mass spectrometry.
+
+Maldi mass-spectral fingerprint-based drug detection was introduced, for the first time, as forensic evidence in a recent criminal case on a harassment charge. “The researchers discovered traces of a unique molecule that only forms in the body when cocaine and alcohol are consumed at the same time, providing an insight into the criminal’s state of mind at the time of committing the offense,” according to the Sheffield Hallam University news office, citing the research published in the Royal Society of Chemistry’s journal Analyst.
+
+The technology has reportedly been used to detect blood in a 30-year-old fingerprint. This is surely good news for police and prosecutors investigating cold cases and violent crimes—but critics worry about other applications.
+
+
+“There are serious ramifications associated with using biometric applications to collect data on drug use among people with [limited] consent. This concerns me because it has the potential to be widely adopted,” says Glenn Ellis, a Philadelphia-based medical ethicist who has lectured and consulted around health disparities and health equity.
+
+Though Ellis admits he hasn’t read all of the literature on these new fingerprint-based drug-testing methods, he says he’s “concerned that this type of testing could lead to punitive measures, dismissals or not hiring applicants, and outright denials of health care or life insurance.” If for any reason the results are tampered with or faulty, he adds, there is no appeals process at the time those fingerprints are taken.
+
+“Who has access to that information?” Ellis asks. “Does that private employer have the right to share that information with future employers, law enforcement, and insurance companies?”
+
+Such are the civil-rights questions that law enforcement, privacy advocates, government officials, and ordinary citizens will need to confront as these sorts of powerful—and perhaps easily abused—technologies penetrate the culture.
+
+As it stands, too few people are asking them.

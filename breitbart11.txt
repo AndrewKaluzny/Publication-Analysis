@@ -1,0 +1,18 @@
+Facebook could reportedly face billions of dollars in fines over their facial recognition features due to an Illinois law relating to the collection of biometric data.
+A federal judge has ruled that a class action lawsuit including millions of Facebook users can proceed with their claims that the social media firm violated an Illinois law relating to the collection and storage of biometric data without users consent, according to Bloomberg. Millions of social media users could potentially sue Facebook for violations of the Illinois Biometric Information Privacy Act of 2008 (BIPA) which holds a fine of $1,000 to $5,000 each time a user’s photo is used without permission. This could result in Facebook paying out billions of dollars.
+
+Facebook has regularly encouraged users to tag themselves, friends and family members in uploaded photos and has then stored this information, the social media company then uses a program called DeepFace to match this with other photos of the tagged person. Judge James Donato wrote in a court order:
+
+A class action is clearly superior to individual proceedings here. While not trivial, BIPA’s statutory damages are not enough to incentivize individual plaintiffs given the high costs of pursuing discovery on Facebook’s software and code base and Facebook’s willingness to litigate the case…Facebook seems to believe that a class action is not superior because statutory damages could amount to billions of dollars.
+
+Shawn Williams, the lawyer representing users worried about Facebook’s collection of their biometric data wrote:
+
+As more people become aware of the scope of Facebook’s data collection and as consequences begin to attach to that data collection, whether economic or regulatory, Facebook will have to take a long look at its privacy practices and make changes consistent with user expectations and regulatory requirements.
+
+Facebook has stated that they are reviewing the ruling saying, “We continue to believe the case has no merit and will defend ourselves vigorously.” Facebook argued that the lawsuit should be pursued by individuals and not as a class-action as “damages could amount to billions of dollars,” the company also argued that each user could be “aggrieved” differently and should be forced to prove that they were negatively affected by Facebook’s collection of the data. Judge Donato ruled that “substantial damages are not a reason to decline class certification.”
+
+Judge Donato approved the class of users in the suit in June 2011. A court ruling from December reads:
+
+Although many individuals may not have had enough tagged photos to generate a face template in Facebook’s database, in January 2011 (i.e., before Facebook implemented tag suggestions for all users) the average user was tagged in 53 photos, far more than the 10 needed to generate a face template.
+
+Judge Donato has ruled that the Illinois privacy act is clear and that Facebook collected a “wealth of data on its users, including self-reported residency and IP addresses.” The case is In re Facebook Biometric Information Privacy Litigation, 15-cv-03747, U.S. District Court, Northern District of California (San Francisco.)

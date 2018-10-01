@@ -1,0 +1,66 @@
+Shortly after 2:30 p.m. on Tuesday, Mark Zuckerberg sat down in a chair topped with a booster cushion to face 44 U.S. Senators in his first-ever public appearance at a congressional hearing. And that was only the beginning of the weirdness. The dialogue between Facebook’s CEO and the members of the Senate Judiciary and Commerce Committees that has followed over the next several hours covered wide and sometimes disjointed ground, with some unexpected asides and unclear arguments.
+
+Zuckerberg, who is not known for being a particularly charismatic public speaker, so far seems to have emerged mostly unscathed, despite some verbal fumbles. A selection of the oddest, most surprising, and most important moments from the testimony follows:
+
+An Octogenarian Explains Facebook to the CEO of Facebook
+Chuck Grassley: Founded by Mr. Zuckerberg in 2004, Facebook has exploded over the past 14 years. Facebook currently has over 2 billion monthly active users across the world, over 25,000 employees, and offices in 13 U.S. cities and various other countries ... Services offered by [Facebook and other tech] companies grant endless opportunities to collect increasing amounts of information on their customers. As we get more free or extremely low-cost services, the trade-off for the American consumer is to provide more personal data. The potential for further growth and innovation based on collection of data is limitless. The potential for abuse is also significant.
+
+Bill Nelson Calls Mark Zuckerberg “Genuine”
+Nelson: “I think you are genuine. I got that sense in conversing with you. You want to do the right thing. You want to enact reforms. We want to know if it’s gonna be enough. And I hope that will be in the answers today.”
+
+Mark Zuckerberg Irons Out His Priorities
+Zuckerberg: “My top priority has always been our social mission of connecting people, building community, and bringing the world closer together. Advertisers and developers will never take priority over that as long as I am running Facebook.”
+
+How Many Audits?
+Grassley: Have you ever required an audit to ensure the deletion of improperly transferred data? And if so, how many times?
+Zuckerberg: Mr. Chairman, yes, we have. I don’t have the exact figure how many times we have ... I can make sure that our team follows up with you on anything about the specific past stats that would be interesting.
+Grassley: I can assume that sitting here today you have no idea, and if I’m wrong on that, you’re able—you are telling me, I think—that you’re able to supply those figures to us, as least as of this point?
+Zuckerberg: Mr. Chairman, I, I will have my team follow up with you on what information we have.
+Grassley: Okay, but right now you have no certainty of whether or not, how much of that’s going on, right?
+Zuckerberg: (Blinks.)
+Grassley: Okay.
+
+Bill Nelson Likes Chocolate
+Nelson: Yesterday when we talked, I gave the relatively harmless example that I’m communicating with my friends on Facebook and indicate that I love a certain kind of chocolate. And all of a sudden I start receiving advertisements for chocolate. What if I don’t want to receive those commercial advertisements?
+
+Facebook Runs Ads
+Orrin Hatch: Now, Mr. Zuckerberg, I remember well your first visit to Capitol Hill back in 2010 ... You said back then that Facebook would always be free. Is that still your objective?
+Zuckerberg: Senator, yes. There will always be a version of Facebook that is free ... We’re committed to doing that.
+Hatch: Well, if so, how do you sustain a business model in which users don’t pay for your service?
+Zuck: (Blinks.) Senator, we run ads. (Smirks.)
+
+Facebook Has No Direct Competitors, But It “Doesn’t Feel Like” a Monopoly
+Lindsey Graham: Who’s your biggest competitor?
+Zuckerberg: Senator, we have a lot of competitors.
+Graham: Who’s your biggest? ... Let me put it this way. If I buy a Ford, and it doesn’t work well and I don’t like it, I can buy a Chevy. If I’m upset with Facebook, what’s the equivalent product that I can go sign up for? ... Is there an alternative to Facebook in the private sector?
+Zuckerberg: Yes, Senator. The average American uses eight different apps to communicate with their friends and stay in touch with people, ranging from texting apps to email—
+Graham: Which is the same service you provide?
+Zuckerberg: Well we provide a number of different services.
+Graham: Is Twitter the same as what you do?
+Zuckerberg: It overlaps with a portion of what we do.
+Graham: You don’t think you have a monopoly?
+Zuckerberg: It certainly doesn’t feel like that to me.
+
+Roy Blunt Promotes His Son’s Instagram Career
+Blunt: “My son Charlie, who’s 13, is dedicated to Instagram, so he’d want to be sure I mention him while I was here with you.”
+
+Facebook Is Responsible for Its Content ...
+John Cornyn: Previously, early, in the past, we’ve been told that platforms like Facebook, Twitter, Instagram, the like are neutral platforms, and the people who own and run those for profit ... bore no responsibility for the content. You agree now that Facebook and other social-media platforms are not neutral platforms, but bear some responsibility for the content?
+Zuckerberg: I agree that we’re responsible for the content.
+
+… But It’s Still Not a Media Company
+Dan Sullivan: You mention you’re a tech company, a platform, but some say you’re the world’s biggest publisher. Mark Zuckerberg: I agree that we’re responsible for the content, but we don’t produce the content. When people ask us if we're a media company or publisher, my understanding of what the heart of what they’re really getting at is: Do we feel responsibility for the content on our platform? The answer is clearly yes. But I don't think that's incompatible with, at our core, being a technology company.
+
+The Chick-fil-A Controversy
+Ted Cruz: Mr. Zuckerberg, I will say that there are a great many Americans who I think are deeply concerned that Facebook and other tech companies are engaged in a pervasive pattern of bias and political censorship. There have been numerous instances with Facebook. In May of 2016, Gizmodo reported that Facebook had purposefully and routinely suppressed conservative stories from trending news ... In addition to that, Facebook has initially shut down the Chick-fil-a Appreciation Day page ... and most recently blocked [the] Trump supporters Diamond and Silk’s page with 1.2 million Facebook followers after determining their content and brand were “unsafe to the community” ... In your testimony, you say that you have 15,000 to 20,000 people working on security and content review ... Mr. Zuckerberg, do you feel it’s your responsibility to assess users, whether they are good and positive connections or ones that those 15,000 to 20,000 people deem unacceptable or deplorable?
+
+Facebook Is Listening to You Speak—When You Record a Video
+Gary Peters: I have heard constituents fear that Facebook is mining audio from their mobile devices for the purpose of ad targeting ... Yes or no, does Facebook use audio obtained from mobile devices to enrich personal information about its users?
+Zuckerberg: No.
+Peters: Good. The—
+Zuckerberg: Well, Senator, let me be clear on this. You are talking about the conspiracy theory that gets kids passed around that we listen to what is going on on your microphone and use that. We do not do that. To be clear, we do allow people to take videos on their devices and share those. And of course videos also have audio. So we do, while you are taking a video, record that and use that to make the service better by making sure that your videos have audio. That is pretty clear. I wanted to make sure I was exhaustive there.
+
+Kamala Harris Speaks Plainly
+Harris: Here is what everybody has been trying to tell you today. I say this gently. Your user agreement sucks. You can spot me 75 IQ points. If I can figure it out, you can figure it out. The purpose of the user agreement is to cover Facebook’s rear end. It is not to inform your users about their rights. You know that and I know that. I am going to suggest to you that you go back home and rewrite it. Tell you your $1,200-an-hour lawyers—no disrespect, they are good—tell them you want it written in English and not in Swahili. The average American needs to be able to understand. That would be a start. Are you willing, as a Facebook user, are you willing to give me more control over my data?
+
+Zuckerberg’s hearing continues into Tuesday evening. This post may be updated.

@@ -1,0 +1,26 @@
+Conservatives can be expected to disagree reasonably over Justice Neil Gorsuch’s opinion Tuesday in Sessions v. Dimaya, in which he concurred with the Court’s liberals and cast the deciding vote in a 5-4 ruling invalidating an immigrant’s deportation.
+But it is not reasonable to claim that Justice Gorsuch has somehow sold out his principles to become the next David Souter. His opinion in Dimaya is actually a conservative one, based on an originalist reading of the Constitution.
+
+The majority held that Section 16(b) of the Immigration and Nationality Act is unconstitutionally vague. The law, as written, provides a legal basis for the deportation of a legal immigrant who is convicted of “crime of violence,” defined as “any other offense that is a felony and that, by its nature, involves a substantial risk that physical force against the person or property of another may be used in the course of committing the offense.”
+
+The legal immigrant in question has been convicted twice of first-degree burglary in California. But the Court held, following the precdent in Johnson v. United States (2015), that the idea of “substantial risk” of physical violence was just too vague. Congress simply had not provided a precise enough definition of a “crime of violence.” That meant that the Fifth Amendment due process rights of a legal immigrant convicted of a crime could be violated by deportation.
+
+Gorsuch’s concurring opinion begins:
+
+Vague laws invite arbitrary power. Before the Revolu­tion, the crime of treason in English law was so capa­ ciously construed that the mere expression of disfavored opinions could invite transportation or death. The founders cited the crown’s abuse of “pretended” crimes like this as one of their reasons for revolution. See Declaration of Independence ¶21. Today’s vague laws may not be as invidious, but they can invite the exercise of arbitrary power all the same—by leaving the people in the dark about what the law demands and allowing prosecutors and courts to make it up.
+
+In other words, Gorsuch is not concerned with the welfare of this immigrant or any other. Rather, he is concerned about the federal government potentially abusing its power by exploiting vague language in the law.
+
+He goes on to point out that “burglary” includes “everyone from armed home intruders to door-to-door salesmen peddling shady products,” leaving the courts in the dark about how to determined a “substantial risk” of force.
+
+Gorsuch also addresses the question of whether invalidating a statute for vagueness is itself constitutional — a question raised by Justice Clarence Thomas in his own dissenting opinion — and applies originalist arguments to that subject as well, citing precedent and principle in 18th century English law.
+
+The main dissenting opinion, written by Chief Justice Roberts, disagrees that the law is unconstitutionally vague, distinguishing the Dimaya case from the Johnson precedent and saying that the courts were merely called upon to make a “commonsense inquiry” about the risks of violence. And Thomas questions the “vagueness” doctrine itself.
+
+Gorsuch’s opinion is not a case of yet another Republican appointee to the Supreme Court going liberal. Rather, it is  analogous to Justice Antonin Scalia’s dissent in Hamdi v. Rumsfeld (2004), in which the original originalist voted against President George W. Bush because he believed that the Constitution forbade the government from holding an American citizen — even one accused of fighting alongside our terrorist enemies — without charge.
+
+These cases both remind us that originalists will sometimes disagree in their conclusions, even if they agree in their methods.
+
+And in this case, there is a clear remedy: Congress can simply amend the statute to clarify “crimes of violence.”
+
+Far from violating the trust under which he was appointed, Gorsuch is fulfilling his commitment to originalism.
